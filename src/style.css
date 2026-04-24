@@ -1,0 +1,77 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Custom Grids from Portfolio */
+.blueprint-grid {
+    background-image: radial-gradient(circle, #cbd5e1 1px, transparent 1px);
+    background-size: 24px 24px;
+}
+
+.drafting-grid {
+    background-image: radial-gradient(#c5c6cd 0.5px, transparent 0.5px);
+    background-size: 16px 16px;
+}
+
+.dot-grid {
+    background-image: radial-gradient(circle, #cbd5e1 1px, transparent 1px);
+    background-size: 24px 24px;
+}
+
+.technical-grid {
+    background-image: radial-gradient(circle, #75777d 0.5px, transparent 0.5px);
+    background-size: 16px 16px;
+}
+
+.crosshair-hover:hover {
+    cursor: crosshair;
+}
+
+.dimension-line {
+    position: relative;
+}
+
+.dimension-line::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -20px;
+    right: -20px;
+    height: 1px;
+    background-color: #75777d;
+    z-index: 0;
+}
+
+.ruler-markings {
+    background-image: repeating-linear-gradient(90deg, #75777d 0px, #75777d 1px, transparent 1px, transparent 8px);
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    display: inline-block;
+    vertical-align: middle;
+}
