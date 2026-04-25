@@ -13,10 +13,10 @@ export interface Experience {
 
 export const careerData: Experience[] = [
   {
-    company: "PT. BERCA",
+    company: "PT. BERCA MANDIRI PERKASA",
     period: "2025",
-    role: "Drafter MEP",
-    project: "RUMAH SAKIT SUCI PARAMITA",
+    role: "Senior Drafter MEP",
+    project: "Rumah Sakit Suci Paramita",
     tasks: [
       "Menyusun dan mereview shop drawing sistem MEP sesuai spesifikasi proyek rumah sakit.",
       "Melakukan koordinasi teknis dengan tim lapangan, kontraktor, dan konsultan.",
@@ -28,7 +28,7 @@ export const careerData: Experience[] = [
     company: "PT. MULTIKON",
     period: "2024",
     role: "Koordinator Subkontraktor MEP",
-    project: "UNIVERSITAS CIPUTRA JAKARTA",
+    project: "Universitas Ciputra Jakarta",
     tasks: [
       "Mengkoordinasikan pekerjaan subkontraktor MEP di lapangan.",
       "Mengecek gambar kerja dan kesesuaian pelaksanaan dengan spesifikasi proyek.",
@@ -40,7 +40,7 @@ export const careerData: Experience[] = [
     company: "PT. GAIA KENCANA",
     period: "2014 — 2023",
     role: "Site Engineer MEP",
-    project: "HOTEL GAIA BANDUNG, JAWA BARAT",
+    project: "Manajemen Konstruksi Hotel Gaia Bandung",
     tasks: [
       "Mengawasi pelaksanaan sistem MEP pada proyek hotel.",
       "Melakukan koordinasi lintas disiplin (arsitektur, struktur, dan kontraktor).",
@@ -59,7 +59,7 @@ export const careerData: Experience[] = [
     company: "PT. WIJAYA ENGGINDO NUSA",
     period: "2010 — 2014",
     role: "Engineer MEP",
-    project: "THE PARK RESIDENCE APARTMENT & JAKARTA TELISINDO",
+    project: "The Park Residence Apartment",
     tasks: [
       "Terlibat dalam perencanaan dan penggambaran sistem MEP gedung bertingkat.",
       "Menyusun gambar kerja dan mendukung koordinasi teknis proyek.",
@@ -68,10 +68,22 @@ export const careerData: Experience[] = [
     thumbnail: "https://d2jgpj59n9tcev.cloudfront.net/apartment/gallery/apartment/entrance5b6aaf7b3e448.jpg"
   },
   {
+    company: "PT. DUTA GRAHA INDAH",
+    period: "2007 — 2010",
+    role: "Engineering",
+    project: "Grand Indonesia Apartment & RS Tropis Universitas Airlangga",
+    tasks: [
+      "Bertanggung jawab atas teknis engineering sistem MEP pada proyek apartemen dan rumah sakit.",
+      "Melakukan review desain dan koordinasi dengan tim arsitektur maupun struktur.",
+      "Memastikan standar kualitas dan spesifikasi teknis terpenuhi di lapangan."
+    ],
+    thumbnail: "https://images.luxuryhotel.guru/hotelimage.php?p_id=2083110&code=95b6cb29683705051936c535ee62a341&s=1500x1000"
+  },
+  {
     company: "PT. NARWASTU PRATAMA",
     period: "2005 — 2007",
-    role: "Drafter MEP",
-    project: "SUDIRMAN CITY APARTMENT & CITY HOME APARTMENT KELAPA GADING",
+    role: "Junior Drafter MEP",
+    project: "Sudirman City Apartment & City Home Apartment",
     tasks: [
       "Menyusun gambar kerja dan shop drawing sistem MEP.",
       "Mendukung koordinasi teknis dan dokumentasi proyek."
@@ -79,10 +91,10 @@ export const careerData: Experience[] = [
     thumbnail: "https://cdn.raywhite.co.id/2023/08/10/396728-69489381__1691640361-1699-AptCityHomeMOI2-794.jpg"
   },
   {
-    company: "PT. NEPTININDO PASIFIC",
+    company: "PT. NEPTUNINDO PASIFIC",
     period: "2001 — 2002",
-    role: "Drafter MEP",
-    project: "PURI BUGAR",
+    role: "Junior Drafter MEP",
+    project: "Puri Bugar",
     tasks: [
       "Menyusun gambar teknis sistem MEP sesuai desain perencanaan.",
       "Mendukung kebutuhan teknis proyek pada tahap awal pelaksanaan."

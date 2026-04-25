@@ -123,7 +123,7 @@
     <section class="text-center py-12 md:py-20 border-t border-slate-100">
         <h2 class="text-2xl md:text-3xl font-bold text-slate-700 mb-8 uppercase tracking-tighter">Butuh Detail Teknis Mechanical?</h2>
         <div class="flex flex-col sm:flex-row justify-center gap-4 md:gap-6 px-6">
-          <a href="https://drive.google.com/file/d/1LY-c0jXf-VyIGRMKf4T67GFJBx7epR9j/view?usp=sharing" target="_blank" class="px-8 py-3 md:px-10 md:py-4 bg-slate-700 text-white font-bold uppercase tracking-widest text-[10px] md:text-xs hover:bg-orange-500 transition-colors rounded-lg">Download CV (.PDF)</a>
+          <a href="https://drive.google.com/file/d/1byCT2IVSkKbtNnCiVIFRWCtEVBiH_1WZ/view?usp=sharing" target="_blank" class="px-8 py-3 md:px-10 md:py-4 bg-slate-700 text-white font-bold uppercase tracking-widest text-[10px] md:text-xs hover:bg-orange-500 transition-colors rounded-lg">Download CV (.PDF)</a>
           <router-link to="/skills-contact" class="px-8 py-3 md:px-10 md:py-4 border border-slate-300 text-slate-600 font-bold uppercase tracking-widest text-[10px] md:text-xs hover:border-orange-500 hover:text-orange-500 transition-colors rounded-lg">Hubungi Saya</router-link>
         </div>
     </section>

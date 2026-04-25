@@ -37,7 +37,7 @@
       >Contact</router-link>
     </nav>
     <a 
-      href="https://drive.google.com/file/d/1LY-c0jXf-VyIGRMKf4T67GFJBx7epR9j/view?usp=sharing" 
+      href="https://drive.google.com/file/d/1byCT2IVSkKbtNnCiVIFRWCtEVBiH_1WZ/view?usp=sharing" 
       target="_blank"
       class="bg-primary text-on-primary px-3 py-2 md:px-4 font-mono tracking-tighter uppercase border border-primary transition-all hover:bg-transparent hover:text-primary flex items-center gap-2"
     >

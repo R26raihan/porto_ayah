@@ -139,7 +139,7 @@
        <div class="bg-slate-900 py-24 md:py-32 px-6 rounded-sm text-white">
           <h2 class="text-3xl md:text-4xl font-light mb-8 lg:mb-12">Siap bekerja bersama untuk <br class="hidden md:block"/> akurasi proyek bapak?</h2>
           <div class="flex flex-col md:flex-row justify-center gap-8 md:gap-16">
-             <a href="https://drive.google.com/file/d/1LY-c0jXf-VyIGRMKf4T67GFJBx7epR9j/view?usp=sharing" target="_blank" class="text-xs font-bold uppercase tracking-widest hover:text-orange-500 transition-colors border-b border-white/20 pb-2">Download CV Lengkap</a>
+             <a href="https://drive.google.com/file/d/1byCT2IVSkKbtNnCiVIFRWCtEVBiH_1WZ/view?usp=sharing" target="_blank" class="text-xs font-bold uppercase tracking-widest hover:text-orange-500 transition-colors border-b border-white/20 pb-2">Download CV Lengkap</a>
              <router-link to="/skills-contact" class="text-xs font-bold uppercase tracking-widest hover:text-orange-500 transition-colors border-b border-white/20 pb-2">Detail & Kontak</router-link>
           </div>
        </div>
